@@ -19,3 +19,6 @@
 Программа реализована с использованием следующих методв:
 1. FilterStrings(string[] inputArray): Метод для фильтрации строк и создания нового массива.
 2. PrintArray(string[] array, string arrayName): Метод для вывода массива на экран.
+
+## Блок-схема алгоритма:
+![Algorithm](Algorithm.jpg)
